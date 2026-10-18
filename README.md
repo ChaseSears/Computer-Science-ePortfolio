@@ -46,7 +46,7 @@ The first artifact I selected for my ePortfolio is the Event Tracker Android app
 
 One of the biggest lessons I learned from this enhancement was the importance of considering how changes to one part of an application can affect other components. Improving the database structure and account management required me to consider how information was stored and accessed throughout the application. This experience strengthened my understanding of software architecture, maintainability, and secure development practices. The enhancement primarily demonstrates the program outcomes related to designing computing solutions, using appropriate development tools, and incorporating security into software design.
 
-[View Event Tracker Project](https://github.com/ChaseSears/Computer-Science-ePortfolio/tree/main/Software%20Design%20and%20Engineering/ChaseSearsEventTracker)
+[View Event Tracker Project](https://github.com/ChaseSears/Computer-Science-ePortfolio/tree/main/Software%20Design%20and%20Engineering)
 
 ### Enhancement Two: Algorithms and Data Structures
 
