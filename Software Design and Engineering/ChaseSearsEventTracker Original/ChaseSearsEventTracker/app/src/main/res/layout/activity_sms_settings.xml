@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/txtSmsTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SMS Settings"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="20dp" />
+
+        <EditText
+            android:id="@+id/edtPhoneNumber"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Phone Number"
+            android:inputType="phone"
+            android:layout_marginBottom="16dp" />
+
+        <CheckBox
+            android:id="@+id/chkEnableSms"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Enable SMS Alerts"
+            android:layout_marginBottom="20dp" />
+
+        <Button
+            android:id="@+id/btnRequestSmsPermission"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Request SMS Permission"
+            android:layout_marginBottom="12dp" />
+
+        <Button
+            android:id="@+id/btnSaveSmsSettings"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Save SMS Settings" />
+
+    </LinearLayout>
+</ScrollView>
