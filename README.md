@@ -42,7 +42,9 @@ My code review examines the original functionality of my selected projects, iden
 
 **Event Tracker Android Application (Java)**
 
-An enhanced Android application demonstrating software architecture, input validation, event management, and improved functionality.
+The first artifact I selected for my ePortfolio is the Event Tracker Android application that I originally developed in CS 360: Mobile Architecture and Programming. The application was created using Java and Android Studio and allows users to create accounts and manage personal events. I selected this artifact because it demonstrates my growth in software design and engineering. For my enhancement, I improved the application's event management features by incorporating event categories, filtering, and improved input validation. I also strengthened account management by improving password handling and ensuring events were associated with individual users. These changes made the application more organized, secure, and easier to use while demonstrating my ability to improve an existing software application.
+
+One of the biggest lessons I learned from this enhancement was the importance of considering how changes to one part of an application can affect other components. Improving the database structure and account management required me to consider how information was stored and accessed throughout the application. This experience strengthened my understanding of software architecture, maintainability, and secure development practices. The enhancement primarily demonstrates the program outcomes related to designing computing solutions, using appropriate development tools, and incorporating security into software design.
 
 [View Event Tracker Project](https://github.com/ChaseSears/Computer-Science-ePortfolio/tree/main/Software%20Design%20and%20Engineering/ChaseSearsEventTracker)
 
@@ -50,7 +52,9 @@ An enhanced Android application demonstrating software architecture, input valid
 
 **ABCU Course Planner (C++)**
 
-An enhanced course planning application demonstrating binary search trees, graph-based prerequisite management, and topological sorting.
+The second artifact I selected for my ePortfolio is the ABCU Course Planner, originally developed in CS 300: Data Structures and Algorithms. This C++ application was designed to organize course information and allow users to search for courses and view their prerequisites. I selected this artifact because it provided an opportunity to demonstrate a deeper understanding of algorithms and data structures. For my enhancement, I expanded the original binary search tree implementation by incorporating a graph-based representation of course prerequisites and implementing Kahn's algorithm for topological sorting. These improvements allowed the application to generate a valid course completion order while identifying missing prerequisites and circular dependencies.
+
+This enhancement helped me understand how different data structures can work together to solve more complex problems. One challenge involved ensuring that prerequisite relationships were valid before generating a course order. Addressing this challenge strengthened my ability to evaluate algorithms, validate data, and consider efficiency when designing software. This artifact demonstrates the program outcomes related to algorithmic problem-solving, evaluating computing solutions, and applying appropriate programming techniques to improve application functionality.
 
 [View ABCU Course Planner](https://github.com/ChaseSears/Computer-Science-ePortfolio/tree/main/Algorithms%20and%20Data%20Structures)
 
@@ -58,7 +62,9 @@ An enhanced course planning application demonstrating binary search trees, graph
 
 **Animal Shelter CRUD Application (Python/MongoDB)**
 
-An enhanced database application demonstrating CRUD operations, data validation, database querying, and improved data management.
+The third artifact I selected for my ePortfolio is the Animal Shelter CRUD application, originally developed in CS 340: Client/Server Development. This application was created using Python and MongoDB to manage animal shelter records through create, read, update, and delete operations. I selected this artifact because it demonstrates my ability to develop database-driven applications and manage stored information. For my enhancement, I improved the application's database functionality by strengthening input validation and error handling, expanding search capabilities, and incorporating MongoDB indexes to improve query efficiency. I also worked on aggregation-based reporting and improving the reliability of database interactions. These changes demonstrate my ability to improve an existing database application while considering performance, data integrity, and usability.
+
+One of the most important lessons I learned during this enhancement was that database development involves more than simply storing and retrieving information. I had to consider how queries affect performance, how invalid data can impact application reliability, and how database operations should handle unexpected errors. Working through these challenges strengthened my understanding of database optimization, secure data management, and client/server development. This artifact demonstrates the program outcomes related to designing effective computing solutions, applying industry-relevant technologies, and incorporating security and reliability into software development.
 
 [View Animal Shelter Project](https://github.com/ChaseSears/Computer-Science-ePortfolio/tree/main/Databases)
 
